@@ -1,0 +1,18 @@
+{
+  "built": "2026-09-15",
+  "faa": 316659,
+  "faa_dereg": 218148,
+  "opensky": 216074,
+  "total": 750881,
+  "shards": 962,
+  "fields": [
+    "reg",
+    "manufacturer",
+    "model",
+    "typecode",
+    "operator",
+    "year",
+    "src",
+    "note"
+  ]
+}
